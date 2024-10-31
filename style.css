@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.hd {
+    margin-left: 390px;
+    margin-top: 50px;
+}
+
+p {
+    max-width: 1200px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+img.tree {
+    margin-left: 359px;
+    margin-top: 59px;
+}
+
+.help {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+.reserve {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+img.nature {
+    margin-top: 50px;
+    margin-left: 159px;
+    width: 1000px;
+}
+
+footer {
+    margin-top: 100px;
+    height: 300px;
+    background-color: #000;
+    color: aquamarine;
+}
+
+button {
+   padding: 20px 40px;
+   border-radius: 100px;
+   margin-left: 230px;
+   margin-top: 100px;
+   background-color: aquamarine;
+   font-size: 1rem;
+   border: none;
+}
+
+button:hover {
+    background-color: #000;
+    color: aquamarine;
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-left: 420px;
+}
+
